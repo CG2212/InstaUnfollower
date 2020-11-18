@@ -4,5 +4,5 @@ Many people are obsessed with Social Media who follows and who does not follow b
 
 secret- Importing the secret file which contains the username and password in string format as shown below.Save the extension as .py file and in the same directory as original Python file.
 
-username = "abc"
+username = "abc",
 pwd = "xyz"
